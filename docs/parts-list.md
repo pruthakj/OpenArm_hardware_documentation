@@ -5,7 +5,7 @@ title: Parts List
 
 # Parts List
 
-Here’s a checklist of all components required for assembly.
+Here's a checklist of all components required for assembly.
 
 ## Mechanical
 
@@ -14,6 +14,7 @@ Here’s a checklist of all components required for assembly.
 - [x] 1x DAMIAO DM-J4340-2EC 
 - [x] 4x DAMIAO DM-J4310-2EC V1.1 
 - [x] [All the manufactured parts](/arm-BOM)
+
 ## Electrical
 
 - [x] Placeholder1 × 1  

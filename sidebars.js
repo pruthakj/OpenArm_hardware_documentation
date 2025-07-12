@@ -1,16 +1,36 @@
+/** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 module.exports = {
-  assemblyGuide: [
+  hardware: [
     'intro',
-    'parts-list',
-    'pedestal-assembly',
-    'j1j2',
-    'j2j3',
-    'j3j4',
-    'j4j5',
-    'j5j6j7',
-    'ee',
-    'final-checks',
-    'arm-BOM',
-    'pedestal-BOM',
+    {
+      type: 'category',
+      label: 'Bill of Materials',
+      collapsed: true,
+      items: [
+        'parts-list',
+        'arm-BOM',
+        'arm-offtheshelf',
+        'pedestal-BOM',
+        'ee-BOM',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Assembly Guide',
+      collapsed: true,
+      items: [
+        'pedestal-assembly',
+        'J1-J2-sub-assembly',
+        'J2-J3-sub-assembly',
+        'J3-J4-sub-assembly',
+        'J4-J5-sub-assembly',
+        'J5-J6-J7-sub-assembly',
+        'ee-sub-assembly',
+        'ee-customization',
+        'final-assembly',
+        'final-checks',
+      ],
+    },
+    'troubleshooting',
   ],
 };
