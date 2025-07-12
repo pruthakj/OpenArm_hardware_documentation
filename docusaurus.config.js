@@ -48,7 +48,7 @@ const config = {
       ({
         docs: {
             sidebarPath: require.resolve('./sidebars.js'),
-            routeBasePath: '/', // 👈 optional: make docs appear at the homepage
+            // Remove routeBasePath to use standard /docs/ route
         },
 
         blog: false,
@@ -92,11 +92,11 @@ const config = {
             items: [
               {
                 label: 'Introduction',
-                to: '/OpenArm_hardware_documentation/docs/intro',
+                to: '/docs/intro',
               },
               {
                 label: 'Parts List',
-                to: '/OpenArm_hardware_documentation/docs/parts-list',
+                to: '/docs/parts-list',
               },
             ],
           },
