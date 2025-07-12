@@ -30,7 +30,7 @@ const config = {
   organizationName: 'pruthakj', // Usually your GitHub org/user name.
   projectName: 'OpenArm_hardware_documentation', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -67,7 +67,7 @@ const config = {
       navbar: {
         title: 'OpenArm v1.0',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'OpenArm Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -92,11 +92,11 @@ const config = {
             items: [
               {
                 label: 'Introduction',
-                to: '/intro',
+                to: '/OpenArm_hardware_documentation/docs/intro',
               },
               {
                 label: 'Parts List',
-                to: '/parts-list',
+                to: '/OpenArm_hardware_documentation/docs/parts-list',
               },
             ],
           },

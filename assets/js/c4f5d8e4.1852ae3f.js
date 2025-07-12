@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkassembly_guide=self.webpackChunkassembly_guide||[]).push([[634],{192:(e,s,u)=>{u.r(s),u.d(s,{default:()=>a});u(6540);var r=u(6347),t=u(4848);function a(){return(0,t.jsx)(r.rd,{to:"/docs/intro"})}}}]);
