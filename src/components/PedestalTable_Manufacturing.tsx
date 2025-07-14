@@ -3,7 +3,7 @@ import ComponentPhoto from './ComponentPhoto';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
 const components = [
-  { name: '250x190mm Base Plate', image: 'base_plate.png', model: 'MVBLK-ASN-47X-ALR8G-L', qty: 1, unitPrice: '¥9,559', totalPrice: '¥9,559', method: 'Metal Cutting (CNC)', material: 'Al6061', manufacturer: 'MiSUMi MEVIY'},
+  { name: '250x190mm Base Plate', image: 'base_plate.png', model: 'MVBLK-ASN-47X-ALR8G-L', qty: 1, unitPrice: '¥10,081', totalPrice: '¥10,081', method: 'Metal Cutting (CNC)', material: 'Al6061', manufacturer: 'MiSUMi MEVIY'},
 ];
 
 export default function PedestalManufacturedTable() {

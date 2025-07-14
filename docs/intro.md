@@ -31,5 +31,3 @@ Each step is illustrated with diagrams or photos, along with tips and gotchas to
 ---
 
 Ready to get started?
-
-👉 [Jump to the Parts List](./parts-list)
