@@ -25,7 +25,7 @@ Each step is illustrated with diagrams or photos, along with tips and gotchas to
 
 ## 🛠️ Assembly Quick Overview
 
-> **Estimated time**: 2–3 hours the for bimanual setup   
+> **Estimated time**: 2–3 hours for the bimanual setup   
 > **Skill level**: Intermediate  
 > **Tools required**: Allen keys, screwdriver set, patience, and attention to detail
 
