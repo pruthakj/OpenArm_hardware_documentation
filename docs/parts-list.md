@@ -5,7 +5,7 @@ title: Parts List
 
 # 🧩 Parts List
 
-This checklist includes **all components** required for assembling the **OpenArm v1.0 bimanual setup**.
+This checklist includes **all components** required for assembling the **OpenArm 1 bimanual setup**.
 
 ---
 

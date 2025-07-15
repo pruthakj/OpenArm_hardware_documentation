@@ -40,16 +40,14 @@ export default function Home() {
           <div className="row">
             <div className="col col--8 col--offset-2">
               <div className="text--center padding-horiz--md">
-                <h2>Welcome to OpenArm v1.0 Hardware Documentation</h2>
+                <h2>Welcome to OpenArm 1 Hardware Documentation</h2>
                 <p>
-                  This guide will help you assemble, wire, and test OpenArm v1.0. 
-                  The instructions focus on the right arm, but the left arm follows 
-                  nearly identical steps.
+                  This documentation is prepared by Pruthak Joshi towards the release of OpenArm 1
                 </p>
                 <Link
                   className="button button--primary button--lg"
                   to="/docs/intro">
-                  Start Assembly Guide
+                  Start
                 </Link>
               </div>
             </div>

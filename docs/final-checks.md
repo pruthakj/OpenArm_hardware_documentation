@@ -65,8 +65,7 @@ Follow this sequence to safely power on the robotic arm:
 
 Need help or something’s not working?
 
-👉 Visit the [Troubleshooting Guide](./troubleshooting)  
-💬 Join the community on [Discord](https://discord.gg/example)  
-📬 Contact us through [support@example.com](mailto:support@example.com)
+💬 Join the community on [Discord](https://discord.gg/FsZaZ4z3We)  
+📬 Contact us through [openarm@enactic.ai](mailto:openarm@enactic.ai)
 
 Happy building!
