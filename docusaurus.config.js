@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'OpenArm v1.0 Hardware Documentation',
-  tagline: 'Complete assembly guide for OpenArm v1.0 robotic arm',
+  title: 'OpenArm 1 Hardware Documentation',
+  tagline: 'Complete hardware guide for OpenArm 1',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -65,7 +65,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'OpenArm v1.0',
+        title: 'OpenArm 1',
         logo: {
           alt: 'OpenArm Logo',
           src: 'img/logo.svg',
