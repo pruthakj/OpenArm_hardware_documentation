@@ -12,6 +12,7 @@ module.exports = {
         'arm-offtheshelf',
         'pedestal-BOM',
         'ee-BOM',
+        'electrical-BOM',
       ],
     },
     {
@@ -31,6 +32,7 @@ module.exports = {
         'final-checks',
       ],
     },
+    'gripper-specs',
     'installation',
     'troubleshooting',
   ],
