@@ -40,15 +40,9 @@ export default function Home() {
           <div className="row">
             <div className="col col--8 col--offset-2">
               <div className="text--center padding-horiz--md">
-                <h2>Welcome to OpenArm 1 Hardware Documentation</h2>
                 <p>
                   This documentation is prepared by Pruthak Joshi towards the release of OpenArm 1
                 </p>
-                <Link
-                  className="button button--primary button--lg"
-                  to="/docs/intro">
-                  Start
-                </Link>
               </div>
             </div>
           </div>
